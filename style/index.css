@@ -1,1 +1,13 @@
 /* Your own custom styles should be here */
+
+.h1 {
+  font-size: 3em !important;
+}
+
+.card {
+  border: 0px !important;
+}
+
+.dark {
+  background-color: rgb(17, 19, 20) !important;
+}
